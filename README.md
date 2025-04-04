@@ -68,4 +68,4 @@ MIT
 
 ## Author
 
-Your Name 
+Patrick Scott
